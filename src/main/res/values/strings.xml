@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChicagoLandmarks</string>
+    <string name="pic_gallery">Launch Picture Gallery</string>
+    <string name="exit">Exit</string>
+    <string name="DangerousPermission">Access PictureGallery</string>
+    <string-array name="Landmarks">
+        <item>Willis Tower</item>
+        <item>Millenium Park</item>
+        <item>Navy Pier</item>
+        <item>Shedd Aquarium</item>
+        <item>Chicago Riverwalk</item>
+        <item>Wrigley Field</item>
+        <item>Magnificient Mile</item>
+        <item>BrookField Zoo</item>
+    </string-array>
+    <string-array name="Webpages">
+        <item>http://www.willistower.com/</item>
+        <item>https://www.choosechicago.com/things-to-do/parks-and-outdoors/millennium-park/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.choosechicago.com/things-to-do/parks-and-outdoors/chicago-riverwalk/5-things-you-didnt-know-about-the-riverwalk/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>https://www.czs.org/Brookfield-ZOO/Home</item>
+    </string-array>
+</resources>
